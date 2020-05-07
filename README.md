@@ -1,8 +1,6 @@
 <h1 align="center">
 <br>
   <!-- <img src="src/assets/images/logosmart.png" alt="SmartCon" widht="100px" height="160px"> -->
-<br>
-<br>
 Modulo 11 - GoStack
 </h1>
 
