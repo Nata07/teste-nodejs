@@ -5,11 +5,11 @@ Modulo 11 - GoStack
 </h1>
 
 <p align="center">Testes com Node.js. - GoStack Rocketseat</p>
-.- Usando testes com jest 
-- Criando dados fakes com factory e faker
+.- Usando testes com jest <br>
+- Criando dados fakes com factory e faker <br>
 - Salvando dados em banco local sqlite
 
-
+<br>
 <p align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
